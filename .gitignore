@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+introduction_to_ds/.ipynb_checkpoints
+introduction_to_ds/.ipynb_checkpoints/*.ipynb
+
